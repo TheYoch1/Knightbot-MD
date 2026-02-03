@@ -103,16 +103,6 @@ async function helpCommand(sock, chatId, message) {
 ╚═══════════════════╝  
 
 ╔═══════════════════╗
-🖼️ *Pies Commands*:
-║ ➤ .pies <country>
-║ ➤ .china 
-║ ➤ .indonesia 
-║ ➤ .japan 
-║ ➤ .korea 
-║ ➤ .hijab
-╚═══════════════════╝
-
-╔═══════════════════╗
 🎮 *Game Commands*:
 ║ ➤ .tictactoe @user
 ║ ➤ .hangman
@@ -171,46 +161,16 @@ async function helpCommand(sock, chatId, message) {
 
 ╔═══════════════════╗
 📥 *Downloader*:
-║ ➤ .play <song_name>
-║ ➤ .song <song_name>
-║ ➤ .spotify <query>
-║ ➤ .instagram <link>
-║ ➤ .facebook <link>
-║ ➤ .tiktok <link>
-║ ➤ .video <song name>
+║ ➤ .play <Song_Name>
+║ ➤ .song <Song_Name>
+║ ➤ .spotify <Query>
+║ ➤ .instagram <Link>
+║ ➤ .facebook <Link>
+║ ➤ .tiktok <Link>
+║ ➤ .video <Song_Name>
 ║ ➤ .ytmp4 <Link>
-╚═══════════════════╝
-
-╔═══════════════════╗
-🧩 *MISC*:
-║ ➤ .heart
-║ ➤ .horny
-║ ➤ .circle
-║ ➤ .lgbt
-║ ➤ .lolice
-║ ➤ .its-so-stupid
-║ ➤ .namecard 
-║ ➤ .oogway
-║ ➤ .tweet
-║ ➤ .ytcomment 
-║ ➤ .comrade 
-║ ➤ .gay 
-║ ➤ .glass 
-║ ➤ .jail 
-║ ➤ .passed 
-║ ➤ .triggered
-╚═══════════════════╝
-
-╔═══════════════════╗
-🖼️ *ANIME*:
-║ ➤ .nom 
-║ ➤ .poke 
-║ ➤ .cry 
-║ ➤ .kiss 
-║ ➤ .pat 
-║ ➤ .hug 
-║ ➤ .wink 
-║ ➤ .facepalm 
+║ ➤ .qbittorrent <   >
+║ ➤ .Movie <Movie_Name>
 ╚═══════════════════╝
 
 ╔═══════════════════╗
