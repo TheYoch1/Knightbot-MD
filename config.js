@@ -12,6 +12,7 @@ global.APIs = {
     nrtm: 'https://fg-nrtm.ddns.net',
     bg: 'http://bochil.ddns.net',
     fgmods: 'https://api-fgmods.ddns.net'
+    gemini: 'https://generativelanguage.googleapis.com'
 };
 
 global.APIKeys = {
@@ -21,6 +22,7 @@ global.APIKeys = {
     'https://violetics.pw': 'beta',
     'https://zenzapis.xyz': 'yourkey',
     'https://api-fgmods.ddns.net': 'fg-dylux'
+    'https://generativelanguage.googleapis.com': 'AIzaSyCRcsTNnXyKUD3HOCNdzWMdSjOJ-Vxqpcw'
 };
 
 module.exports = {
